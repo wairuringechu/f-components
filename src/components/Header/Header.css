@@ -1,0 +1,11 @@
+.nav-container {
+  display: flex;
+  background-color: gray;
+}
+.rotess ul {
+  display: flex;
+  flex-direction: row;
+}
+.rotess li {
+  list-style: none;
+}
