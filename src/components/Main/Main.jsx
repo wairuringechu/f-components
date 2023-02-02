@@ -2,7 +2,7 @@ import React from "react";
 
 function Main() {
   return (
-    <div>
+    <div classname = "text">
       <p>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae at est
         asperiores ipsa. Eius totam voluptates fugiat pariatur ab,
